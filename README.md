@@ -1,5 +1,5 @@
 # tmx-tbx-viewer
-A webapp for viewing Translation memory excahange (.tmx) and termbase (.tbx) files
+A webapp for viewing Translation memory exchange (.tmx) and termbase (.tbx) files
 
     Upload TMX files or TBX files to a server for viewing over the network.
     Once deployed, users go to http://server:port/tmx to get the index page.
